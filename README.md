@@ -1,3 +1,3 @@
 # Hello-world
-wnh's first repository
-this is my first commits.
+first repository
+this is my first commits.this line is addition.the last line is subtraction
